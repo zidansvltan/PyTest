@@ -1,4 +1,6 @@
+print('Input X : ')
 x = int(input())
+print('Input Y : ')
 y = int(input())
 
 if x > y:
